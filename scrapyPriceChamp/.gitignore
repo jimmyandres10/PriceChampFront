@@ -1,0 +1,7 @@
+**/serviceAccountKey.json
+.env
+**/productos_falabella
+**/productos_mercadolibre
+firebase-api/package-lock.json
+firebase-api/package.json
+firebase-api/node_modules/
